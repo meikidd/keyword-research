@@ -1,6 +1,7 @@
 ---
 name: keyword-research
 description: Keyword research and analysis skill for any website. Performs systematic keyword discovery, competitive gap analysis, intent classification, difficulty scoring, and priority ranking. Use when the user wants to find new keyword opportunities, analyze which keywords competitors rank for, audit existing keyword coverage, build a keyword map, or plan content around search demand. Works for any domain, language, or niche.
+version: 1.0.0
 ---
 
 # Keyword Research Skill
